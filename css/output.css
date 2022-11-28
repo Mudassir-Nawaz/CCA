@@ -548,24 +548,24 @@ video {
 }
 
 .top-hero-learn {
-  background: url('/img/mesh.jpg') no-repeat;
+  background: url('../img/mesh.jpg') no-repeat;
   background-size: cover;
 }
 
 .top-hero-contact {
-  background: url('/img/laptop.jpg') no-repeat;
+  background: url('../img/laptop.jpg') no-repeat;
   background-size: cover;
   background-position: bottom;
 }
 
 .top-hero-about {
-  background: url('/img/graph.jpg') no-repeat;
+  background: url('../img/graph.jpg') no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .top-hero-services {
-  background: url('/img/crypto.jpg') no-repeat;
+  background: url('../img/crypto.jpg') no-repeat;
   background-size: cover;
   background-position: bottom;
 }
